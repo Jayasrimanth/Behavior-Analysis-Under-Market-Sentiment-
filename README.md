@@ -3,21 +3,8 @@
 ## 📁 Project Directory Structure
 
 This repository follows the exact directory structure as instructed.  
-All work has been performed using **Google Colab notebooks** and results are stored accordingly.
-
-```
-ds_<candidate_name>/
-├── notebook_1.ipynb          # Main Google Colab notebook (complete analysis & ML)
-├── notebook_2.ipynb          # Optional additional notebook (if required)
-├── csv_files/                # Folder containing raw and processed datasets
-│   └── *.csv                 # Intermediate / cleaned / merged CSV files
-├── outputs/                  # Folder containing visual outputs
-│   └── *.png / *.jpg         # EDA plots, charts, and graphs
-├── ds_report.pdf             # Final project report with insights & explanations
-└── README.md                 # Project overview and instructions
-```
-
----
+## 📁 Colab Link
+- [Colab Notebook](https://colab.research.google.com/drive/1McHvfiL44_SmVBYIR19JP6zPqBEJd5ey?usp=sharing)
 
 ## 📊 Project Objective
 
@@ -89,13 +76,6 @@ This model is intentionally kept simple for:
 
 ---
 
-## 📝 Notes
-
-This project is intended for academic and learning purposes only.
-It does not provide real-time trading or financial advice.
-
----
-
-✅ **Author:** `<Candidate Name>`  
+✅ **Author:** `Vaddi Jayasrimanth`  
 📅 **Project Type:** Data Science / Machine Learning  
 # Behavior-Analysis-Under-Market-Sentiment-
